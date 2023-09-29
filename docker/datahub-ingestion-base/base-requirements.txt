@@ -240,7 +240,7 @@ pycountry==22.3.5
 pycparser==2.21
 pycryptodome==3.17
 pycryptodomex==3.17
-pydantic==1.10.6
+pydantic==2.4.0
 pydash==6.0.2
 pydeequ==1.0.1
 pydruid==0.6.5
