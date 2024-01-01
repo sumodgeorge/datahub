@@ -7,3 +7,4 @@ slack-sdk==3.18.1
 aiohttp
 joblib
 pytest-xdist
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
