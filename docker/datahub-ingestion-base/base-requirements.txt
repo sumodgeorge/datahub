@@ -245,7 +245,7 @@ pydash==6.0.2
 pydeequ==1.0.1
 pydruid==0.6.5
 Pygments==2.14.0
-pymongo==4.3.3
+pymongo==4.6.3
 PyMySQL==1.0.2
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
