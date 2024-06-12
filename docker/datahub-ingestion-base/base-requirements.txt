@@ -27,7 +27,7 @@ attrs==22.2.0
 avro==1.10.2
 avro-gen3==0.7.8
 azure-core==1.26.3
-azure-identity==1.10.0
+azure-identity==1.16.1
 azure-storage-blob==12.15.0
 azure-storage-file-datalake==12.10.1
 Babel==2.12.1
