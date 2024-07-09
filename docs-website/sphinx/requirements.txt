@@ -7,3 +7,4 @@ pydata-sphinx-theme==0.13.1
 
 # Because of https://github.com/pydata/pydata-sphinx-theme/issues/108
 accessible-pygments
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
