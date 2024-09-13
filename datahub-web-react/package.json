@@ -78,7 +78,7 @@
         "react-visibility-sensor": "^5.1.1",
         "reactour": "1.18.7",
         "remirror": "^2.0.23",
-        "sinon": "^11.1.1",
+        "sinon": "^19.0.0",
         "start-server-and-test": "1.12.2",
         "styled-components": "^5.2.1",
         "turndown-plugin-gfm": "^1.0.2",
