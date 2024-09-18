@@ -36,7 +36,7 @@
     "dotenv": "^16.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "sass": "^1.43.2"
+    "sass": "^1.79.0"
   },
   "browserslist": {
     "production": [
