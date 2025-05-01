@@ -14,7 +14,7 @@
         "@miragejs/graphql": "^0.1.11",
         "@monaco-editor/react": "^4.3.1",
         "@react-hook/window-size": "^3.0.7",
-        "@remirror/pm": "^2.0.3",
+        "@remirror/pm": "^3.0.1",
         "@remirror/react": "^2.0.24",
         "@remirror/styles": "^2.0.3",
         "@testing-library/jest-dom": "^5.11.6",
