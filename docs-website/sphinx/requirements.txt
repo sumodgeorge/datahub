@@ -8,3 +8,4 @@ snowballstemmer>=2.2,<3 # Fixes https://github.com/sphinx-doc/sphinx/issues/1353
 
 # Because of https://github.com/pydata/pydata-sphinx-theme/issues/108
 accessible-pygments
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
